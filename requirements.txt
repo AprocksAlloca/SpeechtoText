@@ -1,5 +1,4 @@
 watchdog==2.1.6
-PyAudio==0.2.11
 pipwin==0.5.1
 DateTime==4.3
 SpeechRecognition==3.8.1
