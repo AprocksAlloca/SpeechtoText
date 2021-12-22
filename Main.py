@@ -1,6 +1,7 @@
 import speech_recognition as sr
 from datetime import datetime
 import streamlit as st
+import pyaudio
 
 st.markdown("<h1 style='text-align: center;'>Speech To Text</h1>", unsafe_allow_html=True)
 
@@ -10,6 +11,7 @@ st.write(start)
 st.write(stop)
 r = sr.Recognizer()
 
+p = pyaudio.PyAudio()
 
     
 if start== True:
