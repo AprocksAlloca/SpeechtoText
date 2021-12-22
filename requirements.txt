@@ -4,3 +4,4 @@ DateTime==4.3
 SpeechRecognition==3.8.1
 streamlit==1.3.0
 packaging==21.3
+PyAudio==0.2.11
