@@ -1,7 +1,7 @@
 import speech_recognition as sr
 from datetime import datetime
 import streamlit as st
-#cn
+
 
 
 st.markdown("<h1 style='text-align: center;'>Speech To Text</h1>", unsafe_allow_html=True)
